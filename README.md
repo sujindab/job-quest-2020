@@ -5,3 +5,5 @@ TakeMeTour's Job Quest 2020 Edition
 2. node app.js
 
 Part 1 and Part 3 is in folder basic-js-ts
+
+Application run on http://localhost:80
